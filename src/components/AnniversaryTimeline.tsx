@@ -120,6 +120,7 @@ const AnniversaryTimeline = () => {
           backgroundColor: "#000",
           paddingY: "30vh", // spacing from previous section
           // overflow: "hidden",
+          border: "2px solid red",
           zIndex: 1,
         }}
       >
